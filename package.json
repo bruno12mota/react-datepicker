@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "moment": "^2.10",
-    "tether": "^1.1.0",
+    "tether": "git://github.com/sujaykathrotia/tether.git",
     "react-onclickoutside": "0.3.0",
     "lodash": "^3.10.0"
   },
